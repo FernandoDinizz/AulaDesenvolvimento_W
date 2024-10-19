@@ -1,0 +1,8 @@
+@media screen  (max- widith: 600px)  and  (max-width: 900px) {
+    body{
+        font-size: 10px;
+        background-color: blue;
+        color: white;
+}  
+
+}
